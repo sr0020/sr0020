@@ -1,4 +1,4 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&height=250&section=header&text=YJ&fontSize=75) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=50bcdf&height=250&section=header&text=YJ&fontSize=75)
 
 <center>
 
