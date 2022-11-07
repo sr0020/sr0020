@@ -12,6 +12,4 @@
 
 </div>
 
-<!-- <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=black"/></a>
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=black"/></a> -->
++ <a href="https://github.com/FE-DeepDive/JavaScript-DeepDive" target="_blank"><img src="https://img.shields.io/badge/JS Deepdive-EEEEEE?style=flat-square&logo=github&logoColor=black"/></a>
