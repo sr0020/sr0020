@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
 
-![sr0020's github stats](https://github-readme-stats.vercel.app/api?username=sr0020&show_icons=true)
+<!-- ![sr0020's github stats](https://github-readme-stats.vercel.app/api?username=sr0020&&show_icons=true) -->
 
 </div>
 
