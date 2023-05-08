@@ -3,10 +3,10 @@
 <div align="center">
 
 ### <center> <b>✨ Tech Stack ✨</b> </center>
-#### <center> <b>[ TD + Web ]</b> </center>
+#### <center> <b>[ TD/TA ]</b> </center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
 
 </div>
 
