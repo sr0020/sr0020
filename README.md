@@ -14,11 +14,11 @@
 <div align="center">
 
 #### <center> <b>[ Etc ]</b> </center>
- 
+
 <center><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </center> 
 
-
 <br>
 
-+ <a href="https://github.com/FE-DeepDive/JavaScript-DeepDive" target="_blank"><img src="https://img.shields.io/badge/JS Deepdive-EEEEEE?style=flat-square&logo=github&logoColor=black"/></a>
+#### <center> <b>[ Pages ]</b> </center>
+ <a href="https://github.com/FE-DeepDive/JavaScript-DeepDive" target="_blank"><img src="https://img.shields.io/badge/JS Deepdive-EEEEEE?style=flat-square&logo=github&logoColor=black"/></a>
