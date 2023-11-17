@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=black">
 </div>
 
+<div align="center">
+
 #### <center> <b>[ Etc ]</b> </center>
  
 <center><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
