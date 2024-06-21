@@ -15,7 +15,6 @@
 
 #### <center> <b>[ Etc ]</b> </center>
 
-<center><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </center> 
 
 <br>
