@@ -4,7 +4,7 @@
 
 ### <center> <b>✨ Tech Stack ✨</b> </center>
 
-#### <center> <b>[ Computer Vision / Eyetracking ]</b> </center>
+#### <center> <b>[ Computer Vision ]</b> </center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=black">
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
