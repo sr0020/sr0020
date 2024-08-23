@@ -2,8 +2,6 @@
 
 <div align="center">
 
-### Simple Simple
-
 <!-- ### <center> <b>✨ Tech Stack ✨</b> </center>
 
 #### <center> <b>[ Computer Vision / Image Processing / Deep Learning ]</b> </center>
