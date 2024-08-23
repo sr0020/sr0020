@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[### <center> <b>✨ Tech Stack ✨</b> </center>
+### <center> <b>✨ Tech Stack ✨</b> </center>
 
 #### <center> <b>[ Computer Vision / Image Processing / Deep Learning ]</b> </center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -17,4 +17,4 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </center> 
 
 #### <center> <b>[ Pages ]</b> </center>
- <a href="https://github.com/FE-DeepDive/JavaScript-DeepDive" target="_blank"><img src="https://img.shields.io/badge/JS Deepdive-EEEEEE?style=flat-square&logo=github&logoColor=black"/></a>](url)
+ <a href="https://github.com/FE-DeepDive/JavaScript-DeepDive" target="_blank"><img src="https://img.shields.io/badge/JS Deepdive-EEEEEE?style=flat-square&logo=github&logoColor=black"/></a>
